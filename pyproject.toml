@@ -42,7 +42,7 @@ Documentation = "https://github.com/Sharathvc23/sm-aae/blob/main/docs/WALKTHROUG
 dev = [
     "pytest>=7.0",
     "hypothesis>=6.100",
-    "ruff>=0.4",
+    "ruff==0.15.13",
     "mypy>=1.0",
     "coverage>=7.0",
 ]
